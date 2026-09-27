@@ -48,7 +48,7 @@ class Enrollment {
 }
 
 void main() {
-  Student student = Student("Profullo", 101);
+  Student student = Student("Shubo", 101);
 
   Course course = Course("Dart Programming", 3);
 

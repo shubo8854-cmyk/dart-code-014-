@@ -19,7 +19,7 @@ class Employee extends Person {
 }
 
 void main() {
-  Employee employee = Employee("Profullo", 50000);
+  Employee employee = Employee("Shubo", 100000);
 
   employee.displayInfo();
   employee.displaySalary();

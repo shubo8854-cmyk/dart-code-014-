@@ -31,8 +31,8 @@ class Reservation {
 }
 
 void main() {
-  Guest guest = Guest("Profullo");
-  Room room = Room(101, 2000);
+  Guest guest = Guest("Shubo");
+  Room room = Room(10, 200);
 
   Reservation reservation = Reservation(guest, room, 3);
 
